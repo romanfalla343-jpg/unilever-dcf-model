@@ -105,3 +105,17 @@ The workbook contains the underlying FY2025 reported figures and model assumptio
 This project is for educational and portfolio purposes only and does not constitute investment advice or a recommendation to buy or sell securities.
 
 All valuation outputs are dependent on the assumptions used in the model, including revenue growth, EBIT margins, WACC, terminal growth and exit multiples.
+
+## Model Screenshots
+
+### DCF Valuation
+
+![DCF Valuation](screenshots/DCF_Valuation.png)
+
+### Sensitivity Analysis
+
+![Sensitivity Analysis](screenshots/Sensitivity_Analysis.png)
+
+### Income Statement & Free Cash Flow
+
+![Income Statement and Free Cash Flow](screenshots/Income_Statement_FCF.png)
