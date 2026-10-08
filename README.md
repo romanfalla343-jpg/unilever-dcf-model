@@ -110,7 +110,7 @@ All valuation outputs are dependent on the assumptions used in the model, includ
 
 ### DCF Valuation
 
-![DCF Valuation](screenshots/DCF_Valuation.png)
+![DCF Valuation](screenshots/DCF_valuation.png)
 
 ### Sensitivity Analysis
 
